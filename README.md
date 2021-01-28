@@ -1,7 +1,8 @@
-### YU9-30
+### Github
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=yu9-30&theme=tokyonight)
 
+### Zenn
 <!-- Like のバッジ -->
   <a href="https://zenn.dev/yu_9">
     <img src="https://zenn.badge.nikaera.com/s/yu_9/likes?style=for-the-badge" alt="yu_9 likes" />
