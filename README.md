@@ -1,6 +1,6 @@
 ### YU9-30
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=yu9-30)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=yu9-30&theme=radical))
 
 <!-- Like のバッジ -->
   <a href="https://zenn.dev/yu_9">
