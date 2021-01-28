@@ -1,8 +1,6 @@
 ### YU9-30
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=yu9-30)
-<!--
-**YU9-30/YU9-30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!-- Like のバッジ -->
   <a href="https://zenn.dev/yu_9">
@@ -28,7 +26,9 @@
   <a href="https://zenn.dev/yu_9/scraps">
     <img src="https://zenn.badge.nikaera.com/s/yu_9/scraps?style=for-the-badge" alt="yu_9 scraps" />
   </a>
-
+  
+<!--
+**YU9-30/YU9-30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
