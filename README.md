@@ -1,6 +1,6 @@
 ### Github
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=yu9-30&theme=tokyonight)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=yukyu30&theme=tokyonight)
 
 ### Zenn
 <!-- Like のバッジ -->
