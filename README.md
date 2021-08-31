@@ -28,6 +28,11 @@
     <img src="https://zenn.badge.nikaera.com/s/yu_9/scraps?style=for-the-badge" alt="yu_9 scraps" />
   </a>
   
+### LINK
+- [Twitter](https://twitter.com/yukyu30)
+- [blog](https://blog.yukyu.net)
+
+[show more link](https://blog.yukyu.net/me/links/)
 <!--
 **YU9-30/YU9-30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
