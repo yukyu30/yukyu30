@@ -31,10 +31,6 @@
 ### LINK
 - [Twitter](https://twitter.com/yukyu30)
 - [blog](https://blog.yukyu.net)
-
-# blog 
-<a href="https://blog-friends.com/users/yukyu30/" class="js-blog-friends" data-user="yukyu30">yukyu30</a>
-  <script async src="https://unpkg.com/blog-friends-embed@latest/widgets.js" charset="utf-8"></script>
   
 [show more link](https://blog.yukyu.net/me/links/)
 <!--
