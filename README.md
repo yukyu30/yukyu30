@@ -30,7 +30,7 @@
   
 ### LINK
 - [Twitter](https://twitter.com/yukyu30)
-- [blog](https://blog.yukyu.net)
+- [blog](https://yukyu.net)
   
 [show more link](https://blog.yukyu.net/me/links/)
 <!--
